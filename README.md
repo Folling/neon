@@ -45,3 +45,7 @@ File and directory names are are to be formatted using snake_case. Excluded from
 
 # Support
 I have a fulltime job and can only afford so much time for alloy. If you would like to change that in the future consider donating to the project (note: Donating link will follow, alloy isn't worth donating yet). I also appreciate feedback (next to constructive criticism) so feel free to email me at coding@folling.de. 
+
+# Naming
+Neon is often used as an element in neon signs or other visually impressive objects. (Impressive meant in the literal sense of leaving an impression).
+Hence it was chosen as the name for the rendering library which is also visually impressive.
